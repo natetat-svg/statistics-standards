@@ -1,0 +1,7 @@
+Column,Statistic,P-value,Normal?,Interpretation
+avgPlaytime,0.43416640997922584,5.493772874303049e-56,False,Not normal
+copiesSold,0.08613700658066992,1.4319855327718803e-64,False,Not normal
+price,0.881524025415704,2.3180881408579958e-32,False,Not normal
+revenue,0.05893617325679501,4.076590662799699e-65,False,Not normal
+revenue_per_copy,0.7244649755416002,2.775910602813374e-44,False,Not normal
+reviewScore,0.7346045424193766,1.0336217078393429e-43,False,Not normal

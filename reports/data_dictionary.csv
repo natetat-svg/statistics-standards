@@ -1,0 +1,12 @@
+Column,Type,Description,Missing (%),Unique Values,Example Values
+name,string,,0.0,1500,"['WWE 2K24', 'EARTH DEFENSE FORCE 6', 'Sins of a S"
+releaseDate,datetime64[ns],,0.0,235,"[Timestamp('2024-03-07 00:00:00'), Timestamp('2024"
+copiesSold,Int64,,0.0,1460,"[165301, 159806, 214192]"
+price,float64,,0.0,58,"[99.99, 59.99, 49.99]"
+revenue,float64,,0.0,1497,"[8055097.0, 7882151.0, 7815247.0]"
+avgPlaytime,float64,,0.0,1500,"[42.36514031444467, 29.65106126155342, 12.45259326"
+reviewScore,Int64,,0.0,72,"[71, 57, 88]"
+publisherClass,category,,0.0,4,"['AAA', 'Indie', 'Indie']"
+publishers,string,,0.1,1131,"['2K', 'D3PUBLISHER', 'Stardock Entertainment']"
+developers,string,,0.1,1406,"['Visual Concepts', 'SANDLOT', 'Ironclad Games Cor"
+steamId,Int64,,0.0,1500,"[2315690, 2291060, 1575940]"

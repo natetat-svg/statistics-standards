@@ -1,0 +1,8 @@
+DATA CLEANING LOG
+==================================================
+
+- Filled 1 missing values in 'publishers' with mode ('Kagura Games')
+- Filled 2 missing values in 'developers' with mode ('Lust Desires 🖤')
+- Added 'revenue_per_copy' (revenue / copiesSold)
+
+Final shape: (1500, 12)
