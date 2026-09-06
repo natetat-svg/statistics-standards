@@ -1,6 +1,6 @@
 # Week 1 Report: Data Acquisition & Exploration
 
-## Team: Statistics Superstars
+## Team: statistics-standards
 **Date:** September 6, 2026
 
 ---
