@@ -2,7 +2,7 @@
 First-year statistics project 
 ## Team Members
 
-- Student A - Project Lead & Data Curator
+- Natetat Tubdoung - Project Lead & Data Curator
 - Theerawat Rungroung - Statistical Analyst
 - Student C - Visualization Specialist
 
