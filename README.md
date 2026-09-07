@@ -4,7 +4,7 @@ First-year statistics project
 
 - Natetat Tubdoung - Project Lead & Data Curator
 - Theerawat Rungroung - Statistical Analyst
-- Student C - Visualization Specialist
+- Theerathat Rakkiat - Visualization Specialist
 
 ## Project Overview
 Analysis of the top 1,500 Steam games by revenue released between 1 Jan 2024 and 9 Sep 2024. This project examines how review sentiment, publisher class, pricing, and genre relate to commercial performance.
