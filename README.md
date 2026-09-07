@@ -3,7 +3,7 @@ First-year statistics project
 ## Team Members
 
 - Student A - Project Lead & Data Curator
-- Student B - Statistical Analyst
+- Theerawat Rungroung - Statistical Analyst
 - Student C - Visualization Specialist
 
 ## Project Overview
