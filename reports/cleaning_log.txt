@@ -3,6 +3,7 @@ DATA CLEANING LOG
 
 - Filled 1 missing values in 'publishers' with mode ('Kagura Games')
 - Filled 2 missing values in 'developers' with mode ('Lust Desires 🖤')
+- Collapsed 1 'Hobbyist' row(s) in 'publisherClass' into 'Indie' (too few Hobbyist rows to support as its own group)
 - Added 'revenue_per_copy' (revenue / copiesSold)
 
 Final shape: (1500, 12)
