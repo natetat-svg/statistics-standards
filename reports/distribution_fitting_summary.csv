@@ -1,0 +1,8 @@
+column,best_fit,p_value,good_fit
+copiesSold,Gamma,0.0,False
+price,Gamma,5.0949812261183675e-14,False
+revenue,Gamma,0.0,False
+avgPlaytime,Gamma,0.0,False
+reviewScore,Gamma,0.0,False
+steamId,Uniform,9.887075620611588e-144,False
+revenue_per_copy,Gamma,0.0,False

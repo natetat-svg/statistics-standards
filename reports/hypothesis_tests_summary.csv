@@ -1,0 +1,5 @@
+test,variable1,variable2,statistic,p_value,significant
+One-sample t-test,price,mu=20.0,-7.596409113055654,5.3314109747733567e-14,True
+Independent t-test,reviewScore (AAA),reviewScore (Indie),-1.1170371290149665,0.2641769170017399,False
+One-way ANOVA,reviewScore,publisherClass,1.175601274483123,0.3089181157749298,False
+Chi-square Test of Independence,publisherClass,publishers,3000.000000000001,7.414679137881925e-24,True
