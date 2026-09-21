@@ -1,0 +1,7 @@
+issue,decision,reason
+reviewScore == 0,-> NaN in reviewScore_clean; has_review flag kept,Not missing at random (higher revenue)
+price == 0,is_free flag; log_price defined for paid games only,Different business model; log(0) undefined
+avgPlaytime == 0,-> NaN in log_playtime,log(0) undefined (1 row)
+Hobbyist (n=1),already merged into Indie in Week 1,Group too small to estimate
+"revenue, copiesSold",log10 versions added,Skew 23 / 19 -> ~1
+Selection on revenue,carried as a caveat; truncated likelihood in notebook 05,"Top-1,500 sample"

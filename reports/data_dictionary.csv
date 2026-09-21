@@ -1,6 +1,6 @@
 Column,Type,Description,Missing (%),Unique Values,Example Values
 name,string,,0.0,1500,"['WWE 2K24', 'EARTH DEFENSE FORCE 6', 'Sins of a S"
-releaseDate,datetime64[ns],,0.0,235,"[Timestamp('2024-03-07 00:00:00'), Timestamp('2024"
+releaseDate,datetime64[us],,0.0,235,"[Timestamp('2024-03-07 00:00:00'), Timestamp('2024"
 copiesSold,Int64,,0.0,1460,"[165301, 159806, 214192]"
 price,float64,,0.0,58,"[99.99, 59.99, 49.99]"
 revenue,float64,,0.0,1497,"[8055097.0, 7882151.0, 7815247.0]"

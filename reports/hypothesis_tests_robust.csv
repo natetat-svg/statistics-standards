@@ -1,0 +1,8 @@
+test,p_raw,p_holm,significant_holm_.05
+Kruskal-Wallis: revenue,9.71656078148761e-29,5.829936468892566e-28,True
+Kruskal-Wallis: copiesSold,2.6238255952687724e-16,1.3119127976343861e-15,True
+Kruskal-Wallis: price,2.2255470742355687e-31,1.557882951964898e-30,True
+Kruskal-Wallis: avgPlaytime,2.6230143539159717e-13,1.0492057415663887e-12,True
+Kruskal-Wallis: reviewScore,0.20713178620621744,0.4142635724124349,False
+"Chi-square: class x review tier (70/90, scored only)",0.08130220826168724,0.24390662478506173,False
+Chi-square: class x has_review,0.8712015137578357,0.8712015137578357,False

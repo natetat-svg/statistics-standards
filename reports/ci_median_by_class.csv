@@ -1,0 +1,7 @@
+variable,publisherClass,n,median,ci_low,ci_high
+revenue,Indie,1302,90773.0,80323.0,102975.0
+revenue,AA,146,672187.0,428825.5,916872.5
+revenue,AAA,52,928862.0,583168.0,1335369.5
+copiesSold,Indie,1302,10213.5,9465.5,11548.5
+copiesSold,AA,146,30682.0,22205.0,47153.0
+copiesSold,AAA,52,43160.5,28374.0,62090.5

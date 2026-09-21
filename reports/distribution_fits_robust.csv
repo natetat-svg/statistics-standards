@@ -1,0 +1,6 @@
+variable,n,best family (AIC),runner-up,dAIC runner-up,KS_D,bootstrap p
+revenue (truncated fit),1500,Lognormal,Weibull,1.201008414675016,0.020389296621111164,0.11776447105788423
+copiesSold,1500,Inverse Gaussian,Log-logistic,149.7910088858116,0.057255728061158306,0.004975124378109453
+avgPlaytime,1499,Inverse Gaussian,Lognormal,3.113658959449822,0.03559056990955922,0.004975124378109453
+price (paid),1415,Lognormal,Log-logistic,11.307383039924389,0.08736149990781655,
+reviewScore (scored),1401,Beta,Logit-Normal,6.495194064426414,0.04269433506206896,
